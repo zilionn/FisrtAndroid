@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FisrtAndroid</string>
+    <string name="stInicial">S Inicial (m)</string>
+    <string name="velocidade">Velocidade (m/s)</string>
+    <string name="tempo">Tempo (s)</string>
+    <string name="stFinal">St =</string>
+    <string name="calcular">Calcular</string>
+</resources>
